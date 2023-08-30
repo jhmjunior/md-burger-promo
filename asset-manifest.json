@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/md-burger-promo/static/css/main.5d87d506.css",
+    "main.js": "/md-burger-promo/static/js/main.34e7ccac.js",
+    "static/media/logo_sf.png": "/md-burger-promo/static/media/logo_sf.21f8fc3b9b00168b4123.png",
+    "static/media/WhatsApp.svg": "/md-burger-promo/static/media/WhatsApp.6181e5cecd1a682846ba3e623621a869.svg",
+    "index.html": "/md-burger-promo/index.html",
+    "main.5d87d506.css.map": "/md-burger-promo/static/css/main.5d87d506.css.map",
+    "main.34e7ccac.js.map": "/md-burger-promo/static/js/main.34e7ccac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d87d506.css",
+    "static/js/main.34e7ccac.js"
+  ]
+}
